@@ -2,3 +2,4 @@ Food List
 Pizza
 Crisps
 Garlic Bread
+Cheese and crackers
